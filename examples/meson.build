@@ -43,6 +43,7 @@ source_file = [
     'LumaMasking.cpp',
     'Masking.cpp',
     'MaskingMethods.cpp',
+	'Motion.cpp',
     'MultiCanvas.cpp',
     'Opacity.cpp',
     'Path.cpp',
